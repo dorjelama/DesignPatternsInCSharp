@@ -1,0 +1,15 @@
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\bin\Debug\net8.0\DesignPatternsInCSharp.exe
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\bin\Debug\net8.0\DesignPatternsInCSharp.deps.json
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\bin\Debug\net8.0\DesignPatternsInCSharp.runtimeconfig.json
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\bin\Debug\net8.0\DesignPatternsInCSharp.dll
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\bin\Debug\net8.0\DesignPatternsInCSharp.pdb
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\DesignPatternsInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\DesignPatternsInCSharp.AssemblyInfoInputs.cache
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\DesignPatternsInCSharp.AssemblyInfo.cs
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\DesignPatternsInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\DesignPatternsInCSharp.sourcelink.json
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\DesignPatternsInCSharp.dll
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\refint\DesignPatternsInCSharp.dll
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\DesignPatternsInCSharp.pdb
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\DesignPatternsInCSharp.genruntimeconfig.cache
+C:\Users\someo\OneDrive\PREV FILES\Documents\Personal Workspace\DesignPatternsInCSharp\obj\Debug\net8.0\ref\DesignPatternsInCSharp.dll
